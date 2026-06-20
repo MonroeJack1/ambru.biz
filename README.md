@@ -2,6 +2,12 @@
 
 A modern, responsive one-page website for **ambru.biz**, a business service brand focused on practical AI consulting, AI marketing systems, company automation, and AI learning for entrepreneurs.
 
+Published GitHub Pages URL:
+
+```txt
+https://monroejack1.github.io/ambru.biz/
+```
+
 ## Stack
 
 - React
@@ -42,4 +48,4 @@ npm run build
 
 ## Deployment
 
-The repository includes `.github/workflows/deploy.yml`, which builds the Vite project and deploys `dist` to GitHub Pages. A `public/CNAME` file is included for `ambru.biz`.
+The repository includes `.github/workflows/deploy.yml`, which builds the Vite project and deploys `dist` to GitHub Pages using the repository address instead of a custom domain.
